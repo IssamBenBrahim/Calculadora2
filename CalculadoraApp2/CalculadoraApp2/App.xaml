@@ -4,10 +4,19 @@
              x:Class="CalculadoraApp2.App">
     
     <Application.Resources>
+        
+        <!--Estilos para los botones numericos-->
         <Style TargetType="Button" x:Key="PropiedadBotonNumerico">
             <Setter Property="BackgroundColor" Value="White"/>
             <Setter Property="FontSize" Value="35"/>
             <Setter Property="TextColor" Value="Black"/>
+        </Style>
+
+        <!--Estilos para los botones de los operadores matematicos-->
+        <Style TargetType="Button" x:Key="PropiedadBotonOperadorMatematico">
+            <Setter Property="BackgroundColor" Value="Orange"/>
+            <Setter Property="FontSize" Value="35"/>
+            <Setter Property="TextColor" Value="White"/>
         </Style>
     </Application.Resources>
     
