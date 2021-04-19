@@ -1,0 +1,14 @@
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\obj\Debug\netstandard2.0\CalculadoraApp2.csprojAssemblyReference.cache
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\obj\Debug\netstandard2.0\CalculadoraApp2.AssemblyInfoInputs.cache
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\obj\Debug\netstandard2.0\CalculadoraApp2.AssemblyInfo.cs
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\obj\Debug\netstandard2.0\CalculadoraApp2.csproj.CoreCompileInputs.cache
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\obj\Debug\netstandard2.0\CalculadoraApp2.dll
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\obj\Debug\netstandard2.0\ref\CalculadoraApp2.dll
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\obj\Debug\netstandard2.0\CalculadoraApp2.pdb
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\bin\Debug\netstandard2.0\CalculadoraApp2.deps.json
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\bin\Debug\netstandard2.0\CalculadoraApp2.dll
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\bin\Debug\netstandard2.0\ref\CalculadoraApp2.dll
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\bin\Debug\netstandard2.0\CalculadoraApp2.pdb
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\obj\Debug\netstandard2.0\XamlC.stamp

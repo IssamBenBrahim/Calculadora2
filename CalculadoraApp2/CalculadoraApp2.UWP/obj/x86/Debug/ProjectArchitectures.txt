@@ -1,0 +1,1 @@
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2.UWP\CalculadoraApp2.UWP.csproj;x86
