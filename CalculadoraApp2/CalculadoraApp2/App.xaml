@@ -18,6 +18,13 @@
             <Setter Property="FontSize" Value="35"/>
             <Setter Property="TextColor" Value="White"/>
         </Style>
+
+        <!--Estilo para el boton borrar-->
+        <Style TargetType="Button" x:Key="PropiedadBotonBorrar">
+            <Setter Property="BackgroundColor" Value="Gray" />
+            <Setter Property="FontSize" Value="35"/>
+            <Setter Property="TextColor" Value="White"/>
+        </Style>
     </Application.Resources>
     
 </Application>
