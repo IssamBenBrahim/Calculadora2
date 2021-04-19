@@ -15,7 +15,7 @@ namespace CalculadoraApp2
             InitializeComponent();
         }
 
-        private void Boton_Clicked(object sender, EventArgs e)
+         private void Boton_Clicked(object sender, EventArgs e)
         {
             Resultado.Text = Resultado.Text + ((Button)sender).Text;
         }
@@ -32,7 +32,7 @@ namespace CalculadoraApp2
                 {
                     Resultado.Text = Resultado.Text + "/";
                 }
-            }
+            } 
         }
 
         private void BotonMultiplicar_Clicked(object sender, EventArgs e)
@@ -85,7 +85,7 @@ namespace CalculadoraApp2
         private void BotonIgual_Clicked(object sender, EventArgs e)
         {
             Historial.Children.Add(new Label() { Text = Resultado.Text });
-
+           
         }
 
     }

@@ -27,26 +27,26 @@
 
         <Entry Text="" x:Name="Resultado" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="4" HorizontalTextAlignment="End" FontSize="35"/>
 
-        <Button x:Name="Boton7" Text="7" Grid.Row="1" Grid.Column="0" FontSize="35" Clicked="Boton_Clicked"/>
-        <Button x:Name="Boton8" Text="8" Grid.Row="1" Grid.Column="1" FontSize="35" Clicked="Boton_Clicked"/>
-        <Button x:Name="Boton9" Text="9" Grid.Row="1" Grid.Column="2" FontSize="35" Clicked="Boton_Clicked"/>
-        <Button x:Name="BotonDividir" Text="/" Grid.Row="1" Grid.Column="3" FontSize="35" Clicked="BotonDividir_Clicked"/>
+        <Button x:Name="Boton7" Text="7" Grid.Row="1" Grid.Column="0" Clicked="Boton_Clicked" Style="{StaticResource PropiedadBotonNumerico}"/>
+        <Button x:Name="Boton8" Text="8" Grid.Row="1" Grid.Column="1" Clicked="Boton_Clicked" Style="{StaticResource PropiedadBotonNumerico}"/>
+        <Button x:Name="Boton9" Text="9" Grid.Row="1" Grid.Column="2" Clicked="Boton_Clicked" Style="{StaticResource PropiedadBotonNumerico}"/>
+        <Button x:Name="BotonDividir" Text="/" Grid.Row="1" Grid.Column="3" Clicked="BotonDividir_Clicked"/>
 
-        <Button x:Name="Boton4" Text="4" Grid.Row="2" Grid.Column="0" FontSize="35" Clicked="Boton_Clicked"/>
-        <Button x:Name="Boton5" Text="5" Grid.Row="2" Grid.Column="1" FontSize="35" Clicked="Boton_Clicked"/>
-        <Button x:Name="Boton6" Text="6" Grid.Row="2" Grid.Column="2" FontSize="35" Clicked="Boton_Clicked"/>
-        <Button x:Name="BotonMultiplicar" Text="x" Grid.Row="2" Grid.Column="3" FontSize="35" Clicked="BotonMultiplicar_Clicked"/>
+        <Button x:Name="Boton4" Text="4" Grid.Row="2" Grid.Column="0" Clicked="Boton_Clicked" Style="{StaticResource PropiedadBotonNumerico}"/>
+        <Button x:Name="Boton5" Text="5" Grid.Row="2" Grid.Column="1" Clicked="Boton_Clicked" Style="{StaticResource PropiedadBotonNumerico}"/>
+        <Button x:Name="Boton6" Text="6" Grid.Row="2" Grid.Column="2" Clicked="Boton_Clicked" Style="{StaticResource PropiedadBotonNumerico}"/>
+        <Button x:Name="BotonMultiplicar" Text="x" Grid.Row="2" Grid.Column="3" Clicked="BotonMultiplicar_Clicked"/>
 
-        <Button x:Name="Boton1" Text="1" Grid.Row="3" Grid.Column="0" FontSize="35" Clicked="Boton_Clicked"/>
-        <Button x:Name="Boton2" Text="2" Grid.Row="3" Grid.Column="1" FontSize="35" Clicked="Boton_Clicked"/>
-        <Button x:Name="Boton3" Text="3" Grid.Row="3" Grid.Column="2" FontSize="35" Clicked="Boton_Clicked"/>
-        <Button x:Name="BotonRestar" Text="-" Grid.Row="3" Grid.Column="3" FontSize="35" Clicked="BotonRestar_Clicked"/>
+        <Button x:Name="Boton1" Text="1" Grid.Row="3" Grid.Column="0" Clicked="Boton_Clicked" Style="{StaticResource PropiedadBotonNumerico}"/>
+        <Button x:Name="Boton2" Text="2" Grid.Row="3" Grid.Column="1" Clicked="Boton_Clicked" Style="{StaticResource PropiedadBotonNumerico}"/>
+        <Button x:Name="Boton3" Text="3" Grid.Row="3" Grid.Column="2" Clicked="Boton_Clicked" Style="{StaticResource PropiedadBotonNumerico}"/>
+        <Button x:Name="BotonRestar" Text="-" Grid.Row="3" Grid.Column="3" Clicked="BotonRestar_Clicked"/>
 
-        <Button x:Name="Boton0" Text="0" Grid.Row="4" Grid.ColumnSpan="3" FontSize="35" Clicked="Boton_Clicked"/>
-        <Button x:Name="BotonSumar" Text="+" Grid.Row="4" Grid.Column="3" FontSize="35" Clicked="BotonSumar_Clicked"/>
+        <Button x:Name="Boton0" Text="0" Grid.Row="4" Grid.ColumnSpan="3" Clicked="Boton_Clicked" Style="{StaticResource PropiedadBotonNumerico}"/>
+        <Button x:Name="BotonSumar" Text="+" Grid.Row="4" Grid.Column="3" Clicked="BotonSumar_Clicked"/>
 
-        <Button x:Name="BotonBorrar" Text="C" Grid.Row="5" Grid.Column="0" FontSize="35" Clicked="BotonBorrar_Clicked"/>
-        <Button x:Name="BotonIgual" Text="=" Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="3" FontSize="35" Clicked="BotonIgual_Clicked"/>
+        <Button x:Name="BotonBorrar" Text="C" Grid.Row="5" Grid.Column="0" Clicked="BotonBorrar_Clicked"/>
+        <Button x:Name="BotonIgual" Text="=" Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="3" Clicked="BotonIgual_Clicked"/>
 
         <ScrollView Grid.RowSpan="6" Grid.Column="4" BackgroundColor="Black" >
             <StackLayout x:Name="Historial"/>
