@@ -84,8 +84,11 @@ namespace CalculadoraApp2
 
         private void BotonIgual_Clicked(object sender, EventArgs e)
         {
-            Historial.Children.Add(new Label() { Text = Resultado.Text });
-           
+            if (!Resultado.Text.Equals(""))
+            {
+                Historial.Children.Add(new Label() { Text = Resultado.Text });
+            }
+
         }
 
     }
