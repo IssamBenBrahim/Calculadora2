@@ -12,3 +12,4 @@ C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\bin\
 C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\bin\Debug\netstandard2.0\ref\CalculadoraApp2.dll
 C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\bin\Debug\netstandard2.0\CalculadoraApp2.pdb
 C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bakso\source\repos\CalculadoraApp2\CalculadoraApp2\CalculadoraApp2\obj\Debug\netstandard2.0\Diccionario.xaml.g.cs
